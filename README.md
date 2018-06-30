@@ -14,12 +14,15 @@ Summary: Meta package for tracking llvm version
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/llvm-meta-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/llvm-meta-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/llvm-meta-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/llvm-meta-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/llvm-meta/badges/version.svg)](https://anaconda.org/conda-forge/llvm-meta)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/llvm-meta/badges/downloads.svg)](https://anaconda.org/conda-forge/llvm-meta)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-llvm--meta-green.svg)](https://anaconda.org/conda-forge/llvm-meta) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/llvm-meta.svg)](https://anaconda.org/conda-forge/llvm-meta) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/llvm-meta.svg)](https://anaconda.org/conda-forge/llvm-meta) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/llvm-meta.svg)](https://anaconda.org/conda-forge/llvm-meta) |
 
 Installing llvm-meta
 ====================
