@@ -1,8 +1,6 @@
 About llvm-meta
 ===============
 
-[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
-
 Home: http://github.com/conda-forge/llvm-meta-feedstock
 
 Package license: BSD-3-Clause
@@ -16,8 +14,14 @@ Summary: Meta package for tracking llvm version
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/llvm-meta-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/llvm-meta-feedstock)
+
+<table><tr>
+    <td>All platforms:</td>
+    <td>
+      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
@@ -50,6 +54,8 @@ conda search llvm-meta --channel conda-forge
 
 About conda-forge
 =================
+
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
 
 conda-forge is a community-led conda channel of installable packages.
 In order to provide high-quality builds, the process has been automated into the
