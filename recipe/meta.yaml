@@ -6,7 +6,7 @@ package:
   version: {{ version }}
 
 source:
-  url: http://llvm.org/releases/{{ version }}/llvm-{{ version }}.src.tar.xz
+  url: https://github.com/llvm/llvm-project/releases/download/llvmorg-{{ version }}/llvm-{{ version }}.src.tar.xz
   sha256: {{ sha256 }}
 
 build:
