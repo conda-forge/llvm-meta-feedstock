@@ -5,11 +5,9 @@ Home: http://github.com/conda-forge/llvm-meta-feedstock
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/llvm-meta-feedstock/blob/master/LICENSE.txt)
 
 Summary: Meta package for tracking llvm version
-
-
 
 Current build status
 ====================
