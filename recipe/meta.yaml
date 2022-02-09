@@ -1,5 +1,5 @@
-{% set version = "12.0.1" %}
-{% set sha256 = "7d9a8405f557cefc5a21bf5672af73903b64749d9bc3a50322239f56f34ffddf" %}
+{% set version = "13.0.1" %}
+{% set sha256 = "ec6b80d82c384acad2dc192903a6cf2cdbaffb889b84bfb98da9d71e630fc834" %}
 
 package:
   name: llvm-meta
